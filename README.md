@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azeed7860
 - 👀 Aspiring Full stack developer
-- 🌱 I’m currently learning courses to becoming full stack developer
+- 🌱 I’m currently learning courses to become full stack developer
 - 💞️ I’m looking to collaborate some organizations to enhance my skills in the organization which meets their specification
 - 📫 azeed2687@gmail.com
 - 😄 Pronouns: ...
